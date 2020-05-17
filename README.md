@@ -7,7 +7,7 @@
 [![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()<br>
   <h6 align="center">
    <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
-       <h2 align="center">Manicomio | OpenCV Python | Criando Haarcascade/h2>
+       <h2 align="center">Manicomio | OpenCV Python | Criando Haarcascade</h2>
   </h6>
   <p>Este material faz parte do tutorial Reconhecimento de Imagem | OpenCV Python do Zero | Criando Haarcascade postado no youtube para conhecimento do OpenCV do zero e criação de Haarcascades através de GUI. Abaixo disponibilizo outras fontes de estudo para criar Haarcascades de forma didatica.</p><br>
 <a href="https://youtu.be/lAHMmsInBRI">Link para o tutorial</a><br>
