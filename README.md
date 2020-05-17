@@ -72,6 +72,14 @@
 - Mudamos as propriedades de memoria caso nosso pc suporte.<br>
 - Iniciamos o programa em "start" e após concluido nosso arquivo estará pronto dentro da pasta "classifier".</p><br>
 
+# Ordem das pastas:
+<p><code>pasta principal
+  -- pasta p
+  -- pasta n</code><br>
+<b>O Programa Haarcascade GUI irá criar uma pasta chamada "classifier" e dentro dela um xml chamado  "cascade.xml" este é seu xml de reconhecimento, renomeie ele para oque preferir e ter como backup.</b>  
+</p><br>
+  
+  
   
 # Links de estudo sem a GUI e uso via terminal ou cmd:
 <a href="https://www.cs.auckland.ac.nz/~m.rezaei/Tutorials/Creating_a_Cascade_of_Haar-Like_Classifiers_Step_by_Step.pdf">Creating a Cascade of Haar-Like Classifiers: Step by Step<a><br>
