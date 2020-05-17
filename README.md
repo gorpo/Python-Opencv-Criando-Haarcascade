@@ -52,11 +52,11 @@
 
 # Instalações previas das libs que cumprem os requisitos:
 --> Pillow<br>
-<code>pip install Pillow==6.1</code>
+<code>pip install Pillow==6.1</code><br>
 --> OpenCV<br>
-<code>pip install opencv-python</code>
+<code>pip install opencv-python</code><br>
 --> Numpy<br>
-<code>pip install numpy</code>
+<code>pip install numpy</code><br>
 --> Haarcascade GUI Creator<br>
 <a href="https://amin-ahmadi.com/downloadfiles/cascadetrainergui/CascadeTrainerGUI_3.3.1_x64_Setup.exe">Cascade Trainer GUI 64Bits<a><br>
   <a href="https://amin-ahmadi.com/downloadfiles/cascadetrainergui/CascadeTrainerGUI_3.3.1_x86_Setup.exe">Cascade Trainer GUI 32Bits<a><br>
