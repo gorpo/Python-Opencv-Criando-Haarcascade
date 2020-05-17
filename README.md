@@ -92,5 +92,8 @@
 <a href="https://www.cs.auckland.ac.nz/~m.rezaei/Tutorials/Creating_a_Cascade_of_Haar-Like_Classifiers_Step_by_Step.pdf">Creating a Cascade of Haar-Like Classifiers: Step by Step<a><br>
 <a href="https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/">Creating your own Haar Cascade OpenCV Python Tutorial<a><br>
 <a href="http://amin-ahmadi.com/cascade-trainer-gui/">Cascade Trainer GUI<a><br>
+  
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=lAHMmsInBRI" target="_blank"><img src="http://img.youtube.com/vi/lAHMmsInBRI/0.jpg" 
+alt="ASSISTA NOSSO TUTORIAL NO YOUTUBE" width="100%"  border="0" /></a>
 
 
