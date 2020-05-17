@@ -29,7 +29,7 @@
 - Datasets de imagens se comportam melhor na escala de cinza<br>
 - Tente não usar imagens grandes.<br>
 - Quanto mais imagens em seu dataset melhor sera o resultado de seu haarcascade.<br>
-- Quanto maior a quantidade de vezes treinado("Number of Stages") melhor será o resultado, o aconselhavél é 30x.<br>
+- Quanto maior a quantidade de vezes treinado("Number of Stages") melhor será o resultado, o aconselhavél <b>minimo é 30x.</b><br>
 - Se tiver 8gb RAM ou mais mude as configurações de memoria para agilizar o processo.<br>
 - Feche todo programa que consuma GPU durante a crição do haarcascade, afinal muitas imagens estão sendo processadas.<br>
 - Feche todos programas pois seu processador vai suar.<br>
