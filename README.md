@@ -70,10 +70,17 @@
 - Abrimos o programa Haarcasdade GUI  e indicamos o caminho da pasta do projeto que contem as duas pastas.<br>
 - Setamos na aba "Common" o numero de vezes que ele vai passar em "Number of Stages".<br>
 - Mudamos as propriedades de memoria caso nosso pc suporte.<br>
-- Iniciamos o programa em "start" e após concluido nosso arquivo estará pronto dentro da pasta "classifier".</p><br>
+- Iniciamos o programa em "start" e após concluido nosso arquivo haarcascade estará pronto dentro da pasta "classifier" com nome de "cascade.xml".
+</p><br>
+
+
+# Uso do haarcascade personalizado:
+<p>Creio que se veio até este tutorial conheça como se faz o uso, mas caso seja novato e não saiba, basta assistir <a href="https://youtu.be/lAHMmsInBRI">ESTE TUTORIAL<a> e seguir o passo a passo de como usar o OpenCV do zero! </p>
+
 
 # Ordem das pastas:
-<p><code>pasta principal
+<p>Por padrão o programa Haarcascade Gui usa subpstas com nome "p" e "n" onde p = imagens positivas ou seja imagens que ele deve reconhecer, ja a pasta n = imagens negativas é onde tem todas imagens onde não existe oque queremos reconhecer criando assim o sistema de acertividade do Deep Learning.<br>
+  <code>pasta principal
   -- pasta p
   -- pasta n</code><br>
 <b>O Programa Haarcascade GUI irá criar uma pasta chamada "classifier" e dentro dela um xml chamado  "cascade.xml" este é seu xml de reconhecimento, renomeie ele para oque preferir e ter como backup.</b>  
