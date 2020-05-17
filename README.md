@@ -9,8 +9,8 @@
    <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
        <h2 align="center">Manicomio | OpenCV Python | Criando Haarcascade</h2>
   </h6>
-  <p>Este material faz parte do tutorial Reconhecimento de Imagem | OpenCV Python do Zero | Criando Haarcascade postado no youtube para conhecimento do OpenCV do zero e criação de Haarcascades através de GUI. Abaixo disponibilizo outras fontes de estudo para criar Haarcascades de forma didatica.</p><br>
-<a href="https://youtu.be/lAHMmsInBRI">Link para o tutorial</a><br>
+  <p>Este material faz parte do tutorial Reconhecimento de Imagem | OpenCV Python do Zero | Criando Haarcascade postado no youtube para conhecimento do OpenCV do zero e criação de Haarcascades através de GUI. Abaixo disponibilizo outras fontes de estudo para criar Haarcascades de forma didatica.<br>
+<a href="https://youtu.be/lAHMmsInBRI">Link para o tutorial</a><br></p>
 <img src="https://raw.githubusercontent.com/gorpo/Python-Opencv-Criando-Haarcascade/master/images/banner.jpg" width="100%">
 
 <h3> Programa de manipulação de imagens com OpenCV e Pillow e criação de Haarcascade.</h3><br>
