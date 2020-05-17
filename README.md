@@ -80,9 +80,9 @@
 
 # Ordem das pastas:
 <p>Por padrão o programa Haarcascade Gui usa subpstas com nome "p" e "n" onde p = imagens positivas ou seja imagens que ele deve reconhecer, ja a pasta n = imagens negativas é onde tem todas imagens onde não existe oque queremos reconhecer criando assim o sistema de acertividade do Deep Learning.<br>
-<code>pasta principal\n
-    -- pasta p\n
-    -- pasta n</code><br>
+<code>pasta principal</code><br>
+<code>    --pasta p</code><br>
+<code>    --pasta n</code><br>
 <b>O Programa Haarcascade GUI irá criar uma pasta chamada "classifier" e dentro dela um xml chamado  "cascade.xml" este é seu xml de reconhecimento, renomeie ele para oque preferir e ter como backup.</b>  
 </p><br>
   
