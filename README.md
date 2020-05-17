@@ -11,7 +11,7 @@
   </h6>
   
   
-  <p>Este material faz parte do tutorial <b>Reconhecimento de Imagem | OpenCV Python do Zero</b>, Criando Haarcascade postado no youtube para conhecimento do OpenCV do zero e criação de Haarcascades através de GUI. Abaixo disponibilizo outras fontes de estudo para criar Haarcascades de forma didatica.<br>
+  <p>Este material faz parte do tutorial <b>Reconhecimento de Imagem | OpenCV Python do Zero | Criando Haarcascade</b>, postado no youtube para conhecimento do OpenCV do zero e criação de Haarcascades através de GUI. Abaixo disponibilizo outras fontes de estudo para criar Haarcascades de forma didatica.<br>
 <a href="https://youtu.be/lAHMmsInBRI">Link para o tutorial</a><br></p>
 
 
