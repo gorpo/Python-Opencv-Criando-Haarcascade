@@ -86,6 +86,8 @@
 <b>O Programa Haarcascade GUI irá criar uma pasta chamada "classifier" e dentro dela um xml chamado  "cascade.xml" este é seu xml de reconhecimento, renomeie ele para oque preferir e ter como backup.</b>  
 </p><br>
   
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=lAHMmsInBRI" target="_blank"><img src="http://img.youtube.com/vi/lAHMmsInBRI/0.jpg" 
+alt="ASSISTA NOSSO TUTORIAL NO YOUTUBE" width="100%"  border="0" />ASSISTA O TUTORIAL</a>
   
   
 # Links de estudo sem a GUI e uso via terminal ou cmd:
@@ -93,7 +95,5 @@
 <a href="https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/">Creating your own Haar Cascade OpenCV Python Tutorial<a><br>
 <a href="http://amin-ahmadi.com/cascade-trainer-gui/">Cascade Trainer GUI<a><br>
   
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=lAHMmsInBRI" target="_blank"><img src="http://img.youtube.com/vi/lAHMmsInBRI/0.jpg" 
-alt="ASSISTA NOSSO TUTORIAL NO YOUTUBE" width="100%"  border="0" /></a>
 
 
