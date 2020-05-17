@@ -23,6 +23,7 @@ faces = cascade.detectMultiScale(cinza, scaleFactor=1.08, minNeighbors=4)
 #loop para criar os quadrados de reconhecimento
 for(x, y, w, h) in faces:
     detectada = cv2.rectangle(imagem, (x, y), (x + w, y + h), (116, 90, 53), 2, cv2.LINE_AA)
+    #texto em cima da sua caixa de reconhecimento - isto nao foi passado no tutorial
     cv2.putText(imagem, 'sua_escolha', (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (116, 90, 53), 2, cv2.LINE_AA)
 
 
