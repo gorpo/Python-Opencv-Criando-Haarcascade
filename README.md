@@ -64,7 +64,7 @@
 <a href="https://amin-ahmadi.com/downloadfiles/cascadetrainergui/CascadeTrainerGUI_3.3.1_x64_Setup.exe">FatKun Download<a><br>    
     
 # Executando:
-<p> Para criar nossos Haarcascades precisamos:
+<p> <b>Para criar nossos Haarcascades precisamos:</b><br>
 - Criar dentro da pasta do projeto uma pasta nomeada "p" para receber as imagens positivas<br>
 - Criar dentro da pasta do projeto uma pasta nomeada "n" para receber as imagens negativas<br>
 - Abrimos o programa Haarcasdade GUI  e indicamos o caminho da pasta do projeto que contem as duas pastas.<br>
