@@ -20,7 +20,7 @@
 
 
 # Executando:
-<p> Importante:
+<p>- Importante:
 - Datasets de imagens se comportam melhor na escala de cinza<br>
 - Tente não usar imagens grandes.<br>
 - Quanto mais imagens em seu dataset melhor sera o resultado de seu haarcascade.<br>
